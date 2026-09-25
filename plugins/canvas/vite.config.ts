@@ -6,6 +6,7 @@ const port = Number.parseInt(process.env.BLABLA_CANVAS_PORT ?? "43218", 10);
 export default defineConfig({
   build: {
     outDir: "dist",
+    license: { fileName: "third-party-licenses.json" },
     sourcemap: false,
     target: "es2024"
   },

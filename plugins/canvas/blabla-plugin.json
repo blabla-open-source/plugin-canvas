@@ -2,7 +2,7 @@
   "apiVersion": 1,
   "id": "canvas",
   "name": "canvas",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "minAppVersion": "0.1.16",
   "description": "Blabla canvas surface extracted as a local web plugin.",
   "author": {
